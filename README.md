@@ -2,7 +2,7 @@
 
 Paper in english published on "Revista Livre de Sustentabilidade e Empreendedorismo" from Brazil (https://www.relise.eco.br/index.php/relise/article/view/920/956).
 
-Developed in 2022-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as electrical engineering final paper.
+Developed in 2022-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as part of my electrical engineering BSc final paper.
 
 Abstract:
 
